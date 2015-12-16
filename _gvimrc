@@ -5,4 +5,4 @@ let g:rehash256 = 1
 set background=light
 
 set lines=60
-set columns=200
+set columns=120

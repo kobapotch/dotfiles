@@ -1,0 +1,17 @@
+grep.vim
+lightline.vim
+neobundle.vim
+neocomplete
+neomru.vim
+neosnippet
+neosnippet-snippets
+nerdtree
+omnisharp-vim
+syntastic
+unite.vim
+vim-quickhl
+vim-quickrun
+vim-slime
+vim-snippets
+vimproc
+vimshell
